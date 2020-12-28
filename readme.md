@@ -5,6 +5,14 @@ To test:
   - Subresource integrity behaviour on same domain (as it is only documented for cross domain use).
   - Subresource integrity behaviour with ES6 EcmaScript Module (ESM) imports.
 
+## Install
+
+Clone this repository and run:
+
+```
+npm install
+```
+
 ## Usage
 
 Run the server with:
