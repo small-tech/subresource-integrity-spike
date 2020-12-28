@@ -1,0 +1,16 @@
+{
+  "name": "@small-tech/subresource-integrity-spike",
+  "version": "1.0.0",
+  "description": "A quick spike to test subresource integrity on the same domain and via import",
+  "main": "server/index.js",
+  "scripts": {
+    "passing": "node server/index.js",
+    "failing": "node server/index.js --fail"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "@small-tech/https": "^2.1.0"
+  }
+}
